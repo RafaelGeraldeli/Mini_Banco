@@ -14,6 +14,6 @@ Liste as ferramentas e linguagens utilizadas:
 
 ## 📂 Estrutura do Projeto
 Explique brevemente onde estão os arquivos principais:
-/
-├── Mini_Banco.java
-└──  README.md
+
+- Mini_Banco.java
+- README.md
