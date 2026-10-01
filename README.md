@@ -13,7 +13,6 @@ Liste as ferramentas e linguagens utilizadas:
 - Visual Studio Code
 
 ## 📂 Estrutura do Projeto
-Explique brevemente onde estão os arquivos principais:
 
 - Mini_Banco.java
 - README.md
