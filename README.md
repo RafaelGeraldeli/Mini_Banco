@@ -1,4 +1,4 @@
-# Mini_Banco
+# Mini Banco
 
 Mini Banco realizado nas aulas do Senac.
 
